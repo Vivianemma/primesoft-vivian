@@ -10,7 +10,7 @@ Step 2: Declare variables
 
 Step 3: Calculate discriminan   
                
-               D←b2-4ac<br>
+               D←b2-4ac
 
 Step 4: If D≥0 {
               
