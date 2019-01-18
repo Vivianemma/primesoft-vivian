@@ -13,7 +13,8 @@ Step 4: If D≥0 <br>
               r1←(-b+√D)/2a
               r2←(-b-√D)/2a 
               Display r1 and r2 as roots.
-        Else    
+              
+  Else    
               Calculate real part and imaginary part
               rp←b/2a<br>
               ip←√(-D)/2a
