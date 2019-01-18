@@ -20,9 +20,9 @@ Step 4: If D≥0<br>
 
 <hr>
 <hr>
-<hr>
+
 <body>
-<h2>ATM/h2> <br>
+<h2>ATM</h2> <br>
   <h4>steps</h4><br>
 <P>WHILE TRUE<br>
    DISPLAY "Welcome to Python Bank ATM - Cash Withdrawal"<br>
