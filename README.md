@@ -1,7 +1,7 @@
 <body>
-<h2>quadaratic equation</h2>
-  <h4>steps</h4>
-<p>step 1: Start
+##quadaratic equation
+  ####steps
+step 1: Start
   <br>
 Step 2: Declare variables a, b, c, D, x1, x2, rp and ip;<br>
 Step 3: Calculate discriminant<br>
