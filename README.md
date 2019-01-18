@@ -6,7 +6,7 @@ step 1: Start
   
 Step 2: Declare variables 
 
-     a, b, c, D, x1, x2, rp and ip;
+     a, b, c, D, x1, x2, rp and Ip;
 
 Step 3: Calculate discriminan   
                
